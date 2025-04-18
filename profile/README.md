@@ -6,12 +6,12 @@
   ## **Nova Client**
 
   <p>
-    We are the maintainers of Nova Client, a Fabric utility mod for Minecraft 1.21, among other projects.
+    We are the maintainers of Nova X, a Fabric utility mod for Minecraft 1.21, among other projects.
   </p>
 
   ## **Join our Discord below for updates!**
   
   <a href="https://discord.gg/EhFEShFY3b">
-    <img src="https://raw.githubusercontent.com/novax-client/.github/refs/heads/main/discord.png" alt="Discord server" />
+    <img src="https://raw.githubusercontent.com/novax-client/.github/refs/heads/main/discord.png" alt="Discord Server" />
   </a>
 </div>
