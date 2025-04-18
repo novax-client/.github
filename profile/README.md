@@ -11,5 +11,7 @@
 
   ## **Join our Discord below for updates!**
   
-  [![Discord Server](https://raw.githubusercontent.com/novax-client/.github/refs/heads/main/discord.png)](https://discord.gg/EhFEShFY3b)
+  <a href="https://discord.gg/EhFEShFY3b">
+    <img src="https://raw.githubusercontent.com/novax-client/.github/refs/heads/main/discord.png" alt="Discord server" />
+  </a>
 </div>
