@@ -8,7 +8,8 @@
   <p>
     We are the maintainers of Nova Client, a Fabric utility mod for Minecraft 1.21, among other projects.
   </p>
-  <p>
-    Join our Discord below for updates!
-  </p>
+
+  ## **Join our Discord below for updates!**
+  
+  [![Discord Server](https://raw.githubusercontent.com/novax-client/.github/refs/heads/main/discord.png)](https://discord.gg/EhFEShFY3b)
 </div>
