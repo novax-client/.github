@@ -8,9 +8,6 @@
   <p>
     We are the maintainers of Nova X, a Fabric utility mod for Minecraft 1.21, among other projects.
   </p>
-  <p>
-    Developers: Frost, leon, laurel, violet, Reowya
-  </p>
 
   ## **Join our Discord below for updates!**
   
